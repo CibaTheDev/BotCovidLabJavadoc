@@ -1,0 +1,14 @@
+lv.team3.botcovidlab
+lv.team3.botcovidlab.adapter.facebook
+lv.team3.botcovidlab.adapter.facebook.cache
+lv.team3.botcovidlab.adapter.facebook.handlers
+lv.team3.botcovidlab.adapter.facebook.senders
+lv.team3.botcovidlab.adapter.inputValidation
+lv.team3.botcovidlab.adapter.telegram
+lv.team3.botcovidlab.adapter.telegram.cache
+lv.team3.botcovidlab.adapter.telegram.state
+lv.team3.botcovidlab.entityManager
+lv.team3.botcovidlab.main
+lv.team3.botcovidlab.processors
+lv.team3.botcovidlab.processors.html
+lv.team3.botcovidlab.utils
